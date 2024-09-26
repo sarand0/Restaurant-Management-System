@@ -12,7 +12,7 @@
 <strong>Functional Requirements:</strong>
 
 
-* The program shall allow for authentication of a user when he/she tries to log into the
+* The program shall allow for authentication of a user when they try to log into the
 system.
 * The system shall keep track of whether or not a reservation/delivery is current by
 updating the current order status to ‘Y’ when an order is successfully created and ‘N’
