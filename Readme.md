@@ -7,7 +7,7 @@
 <strong>Brief Description</strong>
 
 
-* This game's theme is a futuristic galaxy world with magic shields, HP booster potions, and laser shooting robots.
+* This project seeks to improve the current manual system at Sonia’s Home-style Kitchen by simplifying the process of organizing customers’ data, calculating totals, and printing receipts. Ultimately, this will improve efficiency in the work environment.
 
 <strong>Functional Requirements:</strong>
 
